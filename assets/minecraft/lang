@@ -1,0 +1,94 @@
+
+/*deepslate >> slate*/
+
+{
+  "item.minecraft.deepslate": "Slate",
+  "item.minecraft.deepslate_coal_ore": "Slate Coal Ore",
+  "item.minecraft.deepslate_iron_ore": "Slate Iron Ore",
+  "item.minecraft.deepslate_gold_ore": "Slate Gold Ore",
+  "item.minecraft.deepslate_redstone_ore": "Slate Redstone Ore",
+  "item.minecraft.deepslate_diamond_ore": "Slate Diamond Ore",
+  "item.minecraft.deepslate_emerald_ore": "Slate Emerald Ore",
+  "item.minecraft.cobbled_deepslate": "Cobbled Slate",
+  "item.minecraft.cobbled_deepslate_slab": "Cobbled Slate Slab",
+  "item.minecraft.cobbled_deepslate_stairs": "Cobbled Slate Stairs",
+  "item.minecraft.cobbled_deepslate_wall": "Cobbled Slate Wall",
+  "item.minecraft.polished_deepslate": "Polished Slate",
+  "item.minecraft.polished_deepslate_slab": "Polished Slate Slab",
+  "item.minecraft.polished_deepslate_stairs": "Polished Slate Stairs",
+  "item.minecraft.polished_deepslate_wall": "Polished Slate Wall",
+  "item.minecraft.chiseled_deepslate": "Chiseled Slate",
+  "item.minecraft.deepslate_bricks": "Slate Bricks",
+  "item.minecraft.cracked_deepslate_bricks": "Cracked Slate Bricks",
+  "item.minecraft.deepslate_brick_slab": "Slate Brick Slab",
+  "item.minecraft.deepslate_brick_stairs": "Slate Brick Stairs",
+  "item.minecraft.deepslate_brick_wall": "Slate Brick Wall",
+  "item.minecraft.deepslate_tiles": "Slate Tiles",
+  "item.minecraft.cracked_deepslate_tiles": "Cracked Slate Tiles"
+}
+
+/*sulfur >> brimstone*/
+
+{
+  "item.minecraft.potent_sulfur": "Sulfur Block",
+  "item.minecraft.sulfur": "Brimstone",
+  "item.minecraft.polished_sulfur": "Polished Brimstone",
+  "item.minecraft.sulfur_slab": "Brimstone Slab",
+  "item.minecraft.sulfur_stairs": "Brimstone Stairs",
+  "item.minecraft.sulfur_wall": "Brimstone Wall",
+  "item.minecraft.chiseled_sulfur": "Chiseled Brimstone",
+  "item.minecraft.sulfur_spike": "Pointed Brimstone",
+  "item.minecraft.sulfur_bricks": "Brimstone Bricks",
+  "item.minecraft.sulfur_brick_slab": "Brimstone Brick Slab",
+  "item.minecraft.sulfur_brick_stairs": "Brimstone Brick Stairs",
+  "item.minecraft.sulfur_brick_wall": "Brimstone Brick Wall"
+}
+
+/*basalt >> basalt column*/
+
+{
+  "item.minecraft.basalt": "Basalt Column" ,
+ "item.minecraft.polished_basalt": "Basalt Pillar",
+  "item.minecraft.smooth_basalt": "Basalt" ,
+}
+
+/*blackstone >> diabase*/
+
+{
+  "item.minecraft.blackstone": "Diabase" ,
+  "item.minecraft.blackstone_slab": "Diabase Slab" ,
+  "item.minecraft.blackstone_stairs": "Diabase Stairs" ,
+  "item.minecraft.blackstone_wall": "Diabase Wall" ,
+  "item.minecraft.gilded_blackstone": "Gilded Diabase" ,
+  "item.minecraft.polished_blackstone": "Polished Diabase" ,
+  "item.minecraft.polished_blackstone_slab": "Polished Diabase Slab" ,
+  "item.minecraft.polished_blackstone_stairs": "Polished Diabase Stairs" ,
+  "item.minecraft.polished_blackstone_wall": "Polished Diabase Wall" ,
+  "item.minecraft.polished_blackstone_button": "Polished Diabase Button" ,
+  "item.minecraft.polished_blackstone_pressure_plate": "Polished Diabase Pressure Plate" ,
+  "item.minecraft.polished_blackstone_bricks": "Diabase Bricks" ,
+  "item.minecraft.cracked_polished_blackstone_bricks": "Cracked Diabase Bricks",
+  "item.minecraft.polished_blackstone_brick_slab": "Diabase Brick Slab" ,
+  "item.minecraft.polished_blackstone_brick_stairs": "Diabase Brick Stairs" ,
+  "item.minecraft.polished_blackstone_brick_wall": "Diabase Brick Wall" ,
+  "item.minecraft.polished_chiseled_blackstone": "Chiseled Diabase" 
+}
+
+/* prismarine >> aquamarine */
+
+{
+  "item.minecraft.prismarine_shard" : "Aquamarine",
+  "item.minecraft.prismarine" : "Aquamarine Block",
+  "item.minecraft.prismarine_slab" : "Aquamarine Slab",
+  "item.minecraft.prismarine_stairs" : "Aquamarine Stairs",
+  "item.minecraft.prismarine_wall" : "Aquamarine Wall",
+  "item.minecraft.prismarine_bricks" : "Aquamarine Bricks",
+  "item.minecraft.prismarine_brick_slab" : "Aquamarine Brick Slab",
+  "item.minecraft.prismarine_brick_stairs" : "Aquamarine Brick Stairs",
+  "item.minecraft.prismarine_brick_wall" : "Aquamarine Brick Wall",
+  "item.minecraft.dark_prismarine" : "Dark Aquamarine Block",
+  "item.minecraft.dark_prismarine_slab" : "Dark Aquamarine Slab",
+  "item.minecraft.dark_prismarine_stairs" : "Dark Aquamarine Stairs",
+  "item.minecraft.sea_lantern" : "Prismarine Lamp",
+  "item.minecraft.prismarine_shards" : "Stupid Prismarine"
+}

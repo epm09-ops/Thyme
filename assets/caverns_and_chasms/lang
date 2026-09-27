@@ -1,0 +1,17 @@
+{
+  "item.cavernsandchasms.deepslate_slab": "Slate Slab",
+  "item.cavernsandchasms.deepslate_stairs": "Slate Stairs",
+  "item.cavernsandchasms.deepslate_wall": "Slate Wall",
+  "item.cavernsandchasms.cobbled_deepslate_bricks": "Cobbled Slate Bricks",
+  "item.cavernsandchasms.cobbled_deepslate_brick_slab": "Cobbled Slate Brick Slab",
+  "item.cavernsandchasms.cobbled_deepslate_brick_stairs": "Cobbled Slate Brick Stairs",
+  "item.cavernsandchasms.cobbled_deepslate_brick_wall": "Cobbled Slate Brick Wall",
+  "item.cavernsandchasms.cobbled_deepslate_tiles": "Cobbled Slate Tiles",
+  "item.cavernsandchasms.cobbled_deepslate_tile_slab": "Cobbled Slate Tile Slab",
+  "item.cavernsandchasms.cobbled_deepslate_tile_stairs": "Cobbled Slate Tile Stairs",
+  "item.cavernsandchasms.cobbled_deepslate_tile_wall": "Cobbled Slate Tile Wall",
+  "item.cavernsandchasms.deepslate_silver_ore": "Slate Silver Ore",
+  "item.cavernsandchasms.deepslate_spinel_ore": "Slate Spinel Ore",
+  "item.cavernsandchasms.deepslate_turquoise_ore": "Slate Turquoise Ore",
+  "item.cavernsandchasms.deepslate_tin_ore": "Slate Tin Ore"
+}
