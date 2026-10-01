@@ -92,3 +92,25 @@
   "item.minecraft.sea_lantern" : "Prismarine Lamp",
   "item.minecraft.prismarine_shards" : "Stupid Prismarine"
 }
+{
+  "item.minecraft.poplar_log": "Maple Log",
+  "item.minecraft.poplar_wood": "Maple Wood",
+  "item.minecraft.stripped_poplar_log": "Stripped Maple Log",
+  "item.minecraft.stripped_poplar_wood": "Stripped Maple Wood",
+  "item.minecraft.poplar_planks": "Maple Planks",
+  "item.minecraft.poplar_slab": "Maple Slab",
+  "item.minecraft.poplar_fence": "Maple Fence",
+  "item.minecraft.poplar_door": "Maple Door",
+  "item.minecraft.poplar_trapdoor": "Maple Trapddor",
+  "item.minecraft.poplar_button": "Maple Button",
+  "item.minecraft.poplar_pressure_plate": "Maple Pressure Plate",
+  "item.minecraft.poplar_sign": "Maple Sign",
+  "item.minecraft.poplar_boat": "Maple Boat",
+  "item.minecraft.poplar_chest_boat": "Maple Boat with Chest",
+  "item.minecraft.red_poplar_leaves": "Red Maple Leaves",
+  "item.minecraft.orange_poplar_leaves": "Orange Maple Leaves",
+  "item.minecraft.yellow_poplar_leaves": "Yellow Maple Leaves",
+  "item.minecraft.red_poplar_sapling": "Red Maple Sapling",
+  "item.minecraft.orange_poplar_sapling": "Orange Maple Sapling",
+  "item.minecraft.yellow_poplar_sapling": "Yellow Maple Sapling"
+}
