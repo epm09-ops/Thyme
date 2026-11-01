@@ -7,5 +7,5 @@ resource sister pack to [Oregano](https://github.com/epm09-ops/Oregano) (you are
 ---oreganized (vanilla change compat) \
 ---bountiful fares (spongekin -> luffa) \
 ---upgrade aquatic (river -> poplar) \
----alexs caves (pewen -> lepidodendron) 
+---alexs caves (pewen -> lepidodendron) \
 ---windswept (pine -> fir [i h8 myself]) 
