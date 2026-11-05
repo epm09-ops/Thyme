@@ -1,6 +1,3 @@
-
-/*deepslate >> slate*/
-
 {
   "item.minecraft.deepslate": "Slate",
   "item.minecraft.deepslate_coal_ore": "Slate Coal Ore",
@@ -24,12 +21,7 @@
   "item.minecraft.deepslate_brick_stairs": "Slate Brick Stairs",
   "item.minecraft.deepslate_brick_wall": "Slate Brick Wall",
   "item.minecraft.deepslate_tiles": "Slate Tiles",
-  "item.minecraft.cracked_deepslate_tiles": "Cracked Slate Tiles"
-}
-
-/*sulfur >> brimstone*/
-
-{
+  "item.minecraft.cracked_deepslate_tiles": "Cracked Slate Tiles",
   "item.minecraft.potent_sulfur": "Sulfur Block",
   "item.minecraft.sulfur": "Brimstone",
   "item.minecraft.polished_sulfur": "Polished Brimstone",
@@ -41,20 +33,10 @@
   "item.minecraft.sulfur_bricks": "Brimstone Bricks",
   "item.minecraft.sulfur_brick_slab": "Brimstone Brick Slab",
   "item.minecraft.sulfur_brick_stairs": "Brimstone Brick Stairs",
-  "item.minecraft.sulfur_brick_wall": "Brimstone Brick Wall"
-}
-
-/*basalt >> basalt column*/
-
-{
+  "item.minecraft.sulfur_brick_wall": "Brimstone Brick Wall",
   "item.minecraft.basalt": "Basalt Column" ,
- "item.minecraft.polished_basalt": "Basalt Pillar",
+  "item.minecraft.polished_basalt": "Basalt Pillar",
   "item.minecraft.smooth_basalt": "Basalt" ,
-}
-
-/*blackstone >> diabase*/
-
-{
   "item.minecraft.blackstone": "Diabase" ,
   "item.minecraft.blackstone_slab": "Diabase Slab" ,
   "item.minecraft.blackstone_stairs": "Diabase Stairs" ,
@@ -71,12 +53,7 @@
   "item.minecraft.polished_blackstone_brick_slab": "Diabase Brick Slab" ,
   "item.minecraft.polished_blackstone_brick_stairs": "Diabase Brick Stairs" ,
   "item.minecraft.polished_blackstone_brick_wall": "Diabase Brick Wall" ,
-  "item.minecraft.polished_chiseled_blackstone": "Chiseled Diabase" 
-}
-
-/* prismarine >> aquamarine */
-
-{
+  "item.minecraft.polished_chiseled_blackstone": "Chiseled Diabase",
   "item.minecraft.prismarine_shard" : "Aquamarine",
   "item.minecraft.prismarine" : "Aquamarine Block",
   "item.minecraft.prismarine_slab" : "Aquamarine Slab",
@@ -90,9 +67,7 @@
   "item.minecraft.dark_prismarine_slab" : "Dark Aquamarine Slab",
   "item.minecraft.dark_prismarine_stairs" : "Dark Aquamarine Stairs",
   "item.minecraft.sea_lantern" : "Prismarine Lamp",
-  "item.minecraft.prismarine_shards" : "Stupid Prismarine"
-}
-{
+  "item.minecraft.prismarine_shards" : "Stupid Prismarine",
   "item.minecraft.poplar_log": "Maple Log",
   "item.minecraft.poplar_wood": "Maple Wood",
   "item.minecraft.stripped_poplar_log": "Stripped Maple Log",
@@ -112,5 +87,22 @@
   "item.minecraft.yellow_poplar_leaves": "Yellow Maple Leaves",
   "item.minecraft.red_poplar_sapling": "Red Maple Sapling",
   "item.minecraft.orange_poplar_sapling": "Orange Maple Sapling",
-  "item.minecraft.yellow_poplar_sapling": "Yellow Maple Sapling"
+  "item.minecraft.yellow_poplar_sapling": "Yellow Maple Sapling",
+  "item.minecraft.jungle_log": "Kapok Log",
+  "item.minecraft.jungle_wood": "Kapok Wood",
+  "item.minecraft.stripped_jungle_log": "Stripped Kapok Log",
+  "item.minecraft.stripped_jungle_wood": "Stripped Kapok Wood",
+  "item.minecraft.jungle_planks": "Kapok Planks",
+  "item.minecraft.jungle_slab": "Kapok Slab",
+  "item.minecraft.jungle_fence": "Kapok Fence",
+  "item.minecraft.jungle_door": "Kapok Door",
+  "item.minecraft.jungle_trapdoor": "Kapok Trapdoor",
+  "item.minecraft.jungle_button": "Kapok Button",
+  "item.minecraft.jungle_pressure_plate": "Kapok Pressure Plate",
+  "item.minecraft.jungle_sign": "Kapok Sign",
+  "item.minecraft.jungle_boat": "Kapok Boat",
+  "item.minecraft.jungle_chest_boat": "Kapok Boat with Chest",
+  "item.minecraft.jungle_leaves": "Kapok Leaves",
+  "item.minecraft.jungle_sapling": "Kapok Sapling"
+
 }

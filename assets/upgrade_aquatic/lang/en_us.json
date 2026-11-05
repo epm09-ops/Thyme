@@ -26,8 +26,12 @@
   "block.upgrade_aquatic.stripped_river_log": "Stripped Poplar Log",
   "block.upgrade_aquatic.stripped_river_wood": "Stripped Poplar Wood",
   "block.upgrade_aquatic.trapped_river_chest": "Trapped Poplar Chest",
-  "item.upgrade_aquatic.large_river_boat": "Large River Boat",
-  "item.upgrade_aquatic.river_boat": "River Boat",
-  "item.upgrade_aquatic.river_chest_boat": "River Boat with Chest",
-  "item.upgrade_aquatic.river_furnace_boat": "River Boat with Furnace"
+  "item.upgrade_aquatic.large_river_boat": "Large Poplar Boat",
+  "item.upgrade_aquatic.river_boat": "Poplar Boat",
+  "item.upgrade_aquatic.river_chest_boat": "Poplar Boat with Chest",
+  "item.upgrade_aquatic.river_furnace_boat": "Poplar Boat with Furnace",
+  "item.upgrade_aquatic.large_jungle_boat": "Large Kapok Boat",
+  "item.upgrade_aquatic.jungle_furnace_boat": "Kapok Boat with Furnace",
+  "item.upgrade_aquatic.large_poplar_boat": "Large Maple Boat",
+  "item.upgrade_aquatic.poplar_furnace_boat": "Maple Boat with Furnace"
  }
